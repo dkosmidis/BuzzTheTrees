@@ -1906,9 +1906,9 @@ lodash@3.7.x:
   version "3.7.0"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.7.0.tgz#3678bd8ab995057c07ade836ed2ef087da811d45"
 
-lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.4:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 lodash@~2.3.0:
   version "2.3.0"
@@ -2082,9 +2082,9 @@ mocha@~1.14.0:
     jade "0.26.3"
     mkdirp "0.3.5"
 
-moment@~2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.2.1.tgz#9793e45f549bb698f2e8755bcddc05edc539bc64"
+moment@~2.11.2:
+  version "2.11.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.11.2.tgz#87968e5f95ac038c2e42ac959c75819cd3f52901"
 
 ms@0.6.2:
   version "0.6.2"
@@ -2102,9 +2102,9 @@ mustache@^2.0.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/mustache/-/mustache-2.3.0.tgz#4028f7778b17708a489930a6e52ac3bca0da41d0"
 
-mustache@~0.7.2:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/mustache/-/mustache-0.7.3.tgz#248d68d0b1050397848fa634c2446c18f30490e9"
+mustache@~2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/mustache/-/mustache-2.2.1.tgz#2c40ca21c278f53150682bcf9090e41a3339b876"
 
 nan@^2.3.0, nan@^2.3.2:
   version "2.5.1"
